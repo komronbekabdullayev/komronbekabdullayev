@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on Python
 
 
-- 💬 Ask me about **Python
+- 💬 Ask me about Python
 
 - 📫 How to reach me komronbekabdullayev571@gmail.com
 
