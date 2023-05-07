@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://fb.com/abdu11ayev_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/komronbekabdullayev571" height="30" width="40" /></a>
-<a href="https://instagram.com/komronbekabdullayev571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komronbekabdullayev571" height="30" width="40" /></a>
+<a href="https://instagram.com/abdu11ayev_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komronbekabdullayev571" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">
